@@ -46,8 +46,10 @@ A comprehensive Streamlit-based legal AI assistant with advanced features includ
 
 ## ScreenShots
 ![Screenshot 2025-07-06 213109](https://github.com/user-attachments/assets/7117a45c-0dee-40f0-bbe1-fa82190c9d27)
-## Demo
-- visit : https://www.linkedin.com/in/abhinav-sunil-870184279/ 
+## Contact
+For more information or support, please reach out to the developer:
+- GitHub: [@HARIDEVSHAJI](https://github.com/HARIDEVSHAJI)
+
 ## 🛠️ Installation
 
 ### Prerequisites
