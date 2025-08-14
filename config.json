@@ -1,0 +1,7 @@
+{
+    "astra_token": "your_astra_token",
+    "database_id": "your_database_id",
+    "keyspace": "your_keyspace",
+    "table_name": "legal",
+    "nvidia_api_key": "your_nvidia_api_key"
+} 
